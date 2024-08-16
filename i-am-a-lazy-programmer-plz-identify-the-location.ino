@@ -289,3 +289,5 @@ void loop() {
   digitalWrite(23, HIGH);
   delay(1000);
 }
+
+// If you live in Japan, you can print a diagram:)
